@@ -17,7 +17,7 @@ In **WWC**, rocks fall from above while the player must move the bucket left or 
 ## Getting Started
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/WWC.git
+   git clone https://github.com/MoazMirza-13/WWC.git
    ```
 2. Open the project in Godot Engine.
 3. Press Play ▶️ to start
